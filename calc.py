@@ -6,9 +6,9 @@ def multiply(x,y):
     pass
 def Multiply(x,y):
     pass
-def square(x,y):
+def add(x,y):
     return
 def multiply(x,y):
-    return x*y
-def divide(x,y): 
+    return x+y
+def divide(x*y): 
     return x/y
